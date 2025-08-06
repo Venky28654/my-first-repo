@@ -1,2 +1,3 @@
-# my-first-repo
-learning DevOps using GitHub
+venkatalakshmi
+DevOps
+how to learn about upload a file
